@@ -1,0 +1,4 @@
+--> I prepared a Makefile to build my library.  
+--> You can add more libraries in same folder (myCppLib) without changing Makefile.
+--> The Makefile works only on Windows but if you are using another OS you can change easily Makefile.
+--> Write "make" to build in same directory.
